@@ -1,9 +1,12 @@
-public class Atividade1
-int idade = 20;
-Final int  MESES_NO_ANO = 12;
-double calc MESES_NO_ANO * idade;
+public class Atividade1 {
 
-System.out.println("Sua idade em meses é;" + resultado);
+    public static void main(String[] args) {
+        String nome = "Gilmar";
+        String cidade = "São Gonçalo";
+        final String PAIS = "Brasil";
 
+        System.out.println("Olá, eu sou " + nome + " moro em " +
+                cidade + " /" + PAIS      );
+    }
 
 }
