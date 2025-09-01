@@ -9,7 +9,7 @@ public class CalculoMedia {
 
         double media = (n1 + n2 + n3) / 3.0;
 
-        
+
         System.out.println("A média das notas é: " + media);
     }
 
