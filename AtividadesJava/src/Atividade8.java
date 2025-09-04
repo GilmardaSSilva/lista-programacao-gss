@@ -1,4 +1,4 @@
-public class Atividade8
+
 public class CalculoMedia {
     public static void main(String[] args) {
 
@@ -12,6 +12,4 @@ public class CalculoMedia {
 
         System.out.println("A média das notas é: " + media);
     }
-
-
 }
