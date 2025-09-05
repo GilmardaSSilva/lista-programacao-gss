@@ -1,6 +1,4 @@
-public class Atividade23
-
-public class Paridade {
+public class Atividade23 {
     public static void main(String[] args) {
         int numero = 9;
 
@@ -10,6 +8,7 @@ public class Paridade {
             System.out.println("Ímpar");
         }
 
-
+    }
+}
 
 

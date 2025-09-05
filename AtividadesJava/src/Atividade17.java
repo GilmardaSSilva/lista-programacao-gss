@@ -1,5 +1,4 @@
-public class Atividade17
-public class PotenciaViaAtribuicao {
+public class Atividade17 {
     public static void main(String[] args) {
         int numero = 3;
         int quadrado = numero;

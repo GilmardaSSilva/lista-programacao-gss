@@ -1,6 +1,6 @@
-public class Atividade20 import java.util.Scanner;
+import java.util.Scanner;
 
-public class PodeDirigir {
+public class Atividade20 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -19,5 +19,5 @@ public class PodeDirigir {
 
         scanner.close();
     }
-}{
 }
+

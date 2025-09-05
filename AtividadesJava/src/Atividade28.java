@@ -1,7 +1,5 @@
-public class Atividade28
-mport java.util.Scanner;
-
-public class DiaDaSemana {
+import java.util.Scanner;
+public class Atividade28 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -36,7 +34,7 @@ public class DiaDaSemana {
                 break;
         }
 
-        scanner.close();
+
     }
 }
 

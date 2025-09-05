@@ -1,7 +1,5 @@
-public class Atividade39
 import java.util.Scanner;
-
-public class Fibonacci {
+public class Atividade39 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

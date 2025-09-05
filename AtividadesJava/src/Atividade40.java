@@ -1,7 +1,5 @@
-public class Atividade40
 import java.util.Scanner;
-
-public class MediaAritmetica {
+public class Atividade40 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int soma = 0;

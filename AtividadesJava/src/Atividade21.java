@@ -1,6 +1,6 @@
-public class Atividade21 mport java.util.Scanner;
+import java.util.Scanner;
 
-public class SituacaoAluno {
+public class Atividade21{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

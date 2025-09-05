@@ -1,7 +1,5 @@
-public class Atividade34
 import java.util.Scanner;
-
-public class NumerosPares {
+public class Atividade34 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

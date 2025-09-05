@@ -1,7 +1,5 @@
-public class Atividade38
 import java.util.Scanner;
-
-public class Tabuada {
+public class Atividade38 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -16,7 +14,7 @@ public class Tabuada {
             System.out.println(numero + " x " + i + " = " + resultado);
         }
 
-        scanner.close();
+
     }
 }
 

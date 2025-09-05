@@ -1,7 +1,5 @@
-public class Atividade30
 import java.util.Scanner;
-
-public class CalculadoraSimples {
+public class Atividade30 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         char opcao;
@@ -54,7 +52,7 @@ public class CalculadoraSimples {
 
         } while (opcao != 'X');
 
-        scanner.close();
+
     }
 }
 

@@ -1,4 +1,4 @@
-public class Atividade22 ublic class ClassificadorNumero {
+public class Atividade22 {
     public static void main(String[] args) {
         int numero = 13;
 

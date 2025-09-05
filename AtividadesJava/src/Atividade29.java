@@ -1,7 +1,5 @@
-public class Atividade29
 import java.util.Scanner;
-
-public class MenuSimples {
+public class Atividade29 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int opcao;

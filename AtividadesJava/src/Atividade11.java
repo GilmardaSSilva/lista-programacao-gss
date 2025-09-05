@@ -1,5 +1,4 @@
-public class Atividade11
-public class IdadeEmMeses {
+public class Atividade11 {
     public static void main(String[] args) {
 
         int idadeAnos = 5;

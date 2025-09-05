@@ -1,5 +1,4 @@
-public class Atividade37
-public class NumerosFor {
+public class Atividade37{
     public static void main(String[] args) {
 
         for (int i = 1; i <= 10; i++) {

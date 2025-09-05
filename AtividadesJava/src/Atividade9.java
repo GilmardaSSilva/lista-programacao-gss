@@ -1,5 +1,4 @@
-public class Atividade9
-ublic class CalculoPerimetro {
+public class Atividade9 {
     public static void main(String[] args) {
         double base = 10.0;
         double altura = 5.0;

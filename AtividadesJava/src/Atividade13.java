@@ -1,5 +1,4 @@
-public class Atividade13
-public class ExemploPrecedencia {
+public class Atividade13 {
     public static void main(String[] args) {
         // Definindo valores para as variáveis
         int a = 5;

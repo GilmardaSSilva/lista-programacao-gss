@@ -1,5 +1,4 @@
-public class Atividade12
-public class DivisaoInteira {
+public class Atividade12 {
     public static void main(String[] args) {
         int dividendo = 17;
         int divisor = 2;

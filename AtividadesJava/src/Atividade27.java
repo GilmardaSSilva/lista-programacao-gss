@@ -1,6 +1,6 @@
-public class Atividade27
+import java.util.Scanner;
 
-public class EntradaSimples {
+public class Atividade27 {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

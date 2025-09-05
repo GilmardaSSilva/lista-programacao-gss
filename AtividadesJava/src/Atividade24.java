@@ -1,7 +1,6 @@
-public class Atividade24
 import java.util.Scanner;
 
-public class VerificaQuadrado {
+public class Atividade24 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

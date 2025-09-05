@@ -1,5 +1,5 @@
 
-public class CalculoMedia {
+public class Atividade8 {
     public static void main(String[] args) {
 
         double n1 = 7.5;

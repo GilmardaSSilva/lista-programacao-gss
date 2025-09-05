@@ -1,7 +1,5 @@
-public class Atividade31
-mport java.util.Scanner;
-
-public class SomaNumeros {
+import java.util.Scanner;
+public class Atividade31{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int numero;

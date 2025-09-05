@@ -1,7 +1,5 @@
-public class Atividade36
 import java.util.Scanner;
-
-public class FatorialWhile {
+public class Atividade36 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

@@ -1,6 +1,6 @@
-puimport java.util.Scanner;
+import java.util.Scanner;
 
-public class MaiorNumero {
+public class Atividade35 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

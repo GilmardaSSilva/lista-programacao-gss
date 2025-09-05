@@ -1,7 +1,5 @@
-public class Atividade33
-mport java.util.Scanner;
-
-public class AcessoSenha {
+import java.util.Scanner;
+public class Atividade33 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String senha;

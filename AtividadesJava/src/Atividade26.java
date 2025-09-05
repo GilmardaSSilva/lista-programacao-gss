@@ -1,7 +1,5 @@
-public class Atividade26
 import java.util.Scanner;
-
-public class SituacaoNota {
+public class Atividade26 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
